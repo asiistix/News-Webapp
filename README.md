@@ -1,0 +1,24 @@
+Title of the project- 
+Work Miners’ Protective Safety Equipments
+
+Duration-
+2 Months
+
+Team Size-
+Group of 5 Members
+
+Description-
+The developed hardware equipment facilitates like an alert system for the workers and
+to the supervisor about the condition within the mine as well as the health condition of worker. This
+will help in decreasing the fatality rate of mine workers.
+
+Abstract-
+We all know there is an exponential growth of industries in just few years. With the increase in industries the risk of workers getting harmed also increases. 
+Specially in mining industries, workers are mostly working in unknown area which might have a hazardous environment or due to any accident can harm the workers. 
+PSE’s or smart work clothing is a device that is used to warn the workers in those hazardous environments and protect them. 
+As smart work clothing or PSE’s is an equipment that is used to detect hazardous environment in the mining as well as other different industries. 
+PSEs not only warns but also monitors their hearts rate and oxygen concentration in body. 
+This help to completely monitor the health of a worker who is working in an unknown area. 
+The aim of this project is to protect or warn its user or worker about the hazardous environment conditions. 
+We have a used power efficient sensors that are used to alert and simultaneously send data to the supervisor or the manager about the people or workers about their specific location, real time environment data and their health condition to the supervisor. 
+This project uses three layer to gather information
